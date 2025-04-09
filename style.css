@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: lightgray;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+}
+
+h1,
+h2 {
+  color: darkblue;
+  margin-bottom: 10px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input,
+button {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: green;
+  color: white;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkgreen;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background-color: white;
+  border: 1px solid gray;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+}
