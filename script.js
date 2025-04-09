@@ -23,3 +23,5 @@ document.getElementById("bookForm").addEventListener("submit", function (e) {
 
   // Show the updated list on the page
   displayBooks();
+});
+
